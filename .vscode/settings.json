@@ -1,0 +1,19 @@
+{
+  "python.defaultInterpreterPath": "c:/Users/agarw/OneDrive/Desktop/flowra/flowra/venv/Scripts/python.exe",
+  "python.terminal.activateEnvironment": true,
+  "python.analysis.venvPath": "c:/Users/agarw/OneDrive/Desktop/flowra/flowra",
+  "python.analysis.venv": "venv",
+  "python.analysis.extraPaths": [
+    "c:/Users/agarw/OneDrive/Desktop/flowra/flowra/venv/Lib/site-packages"
+  ],
+  "pylance.inlayHints.variableTypes": false,
+  "files.watcherExclude": {
+    "**/build/**": true,
+    "**/.dart_tool/**": true,
+    "**/.git/**": true
+  },
+  "search.exclude": {
+    "**/build/**": true,
+    "**/.dart_tool/**": true
+  }
+}
