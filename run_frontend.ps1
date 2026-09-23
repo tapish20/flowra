@@ -5,7 +5,7 @@ param(
 )
 
 Set-StrictMode -Version Latest
-Set-Location -Path $PSScriptRoot
+Set-Location -Path (Join-Path $PSScriptRoot "frontend")
 
 Write-Host "Fetching Flutter packages..."
 flutter pub get
