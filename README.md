@@ -410,7 +410,7 @@ College Project - For Educational Purposes Only
 ## ✍️ Author
 Created for women's health and safety awareness
 
-**Last Updated:** February 4, 2026
+**Last Updated:** September 23, 2026
 
 ---
 
